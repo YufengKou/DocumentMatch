@@ -1,0 +1,9 @@
+C:\Yufeng\DocumentMatch\StringMatchPrototype\obj\x86\Debug\StringMatchPrototype.exe
+C:\Yufeng\DocumentMatch\StringMatchPrototype\obj\x86\Debug\StringMatchPrototype.pdb
+C:\Yufeng\DocumentMatch\StringMatchPrototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Yufeng\DocumentMatch\StringMatchPrototype\obj\x86\Debug\StringMatchPrototype.MainStrMatchForm.resources
+C:\Yufeng\DocumentMatch\StringMatchPrototype\obj\x86\Debug\StringMatchPrototype.Properties.Resources.resources
+C:\Yufeng\DocumentMatch\StringMatchPrototype\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Yufeng\DocumentMatch\StringMatchPrototype\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Yufeng\DocumentMatch\StringMatchPrototype\bin\Debug\StringMatchPrototype.exe
+C:\Yufeng\DocumentMatch\StringMatchPrototype\bin\Debug\StringMatchPrototype.pdb

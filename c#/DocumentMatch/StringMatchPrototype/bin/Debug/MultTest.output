@@ -1,0 +1,5 @@
+Input directory: C:\Yufeng\Test\DocumentMatch\TestData\alt.atheism
+Output directory: C:\Yufeng\Test\DocumentMatch
+Threshold	NumOfBins	MaxVal	TotalRuntime	MatchedPairs	TotalStringComparison	NumOfBuckets	AvgBucketSize
+0.95	4	10	1	1	499500	1	1000
+0.95	2	10	1	1	499500	1	1000

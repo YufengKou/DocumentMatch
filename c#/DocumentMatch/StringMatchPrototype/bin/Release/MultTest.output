@@ -1,0 +1,11 @@
+Input directory: C:\Yufeng\Test\DocumentMatch\TestData
+Output directory: C:\Yufeng\Test\DocumentMatch\TestOutput
+Threshold	NumOfBins	MaxVal	TotalRuntime_minus_data_import	MatchedPairs	TotalStringComparison	NumOfBuckets	AvgBucketSize
+0.98	1	1	313	571	199930006	1	19997
+0.98	1	10000	10	571	4026028	1480	14
+0.98	2	400	7	571	1526669	10488	2
+0.98	3	300	5	571	514131	18016	2
+0.95	1	1	357	620	199930006	1	19997
+0.95	1	10000	64	620	9895902	1480	14
+0.95	2	400	44	620	5878603	10488	2
+0.95	3	300	33	620	2963090	18016	2

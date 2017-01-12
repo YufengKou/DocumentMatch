@@ -1,0 +1,72 @@
+--- LOG INFO --- 11:43:29 PM Saturday, February 14, 2015
+  :The matching algorithm started.
+-------------------------------
+--- LOG INFO --- 11:43:34 PM Saturday, February 14, 2015
+  :1000 files have been read and tokenized. 
+-------------------------------
+--- LOG INFO --- 11:43:34 PM Saturday, February 14, 2015
+  :Finish reading the documents and making dictionary. The data import takes 4seconds. 
+-------------------------------
+--- LOG INFO --- 11:43:34 PM Saturday, February 14, 2015
+  :Bin Tree has been constructed. The num of leaf nodes is 1000
+-------------------------------
+--- LOG INFO --- 11:43:34 PM Saturday, February 14, 2015
+  :leaf 1000 is being processed. 
+-------------------------------
+--- LOG INFO --- 11:43:38 PM Saturday, February 14, 2015
+  :0 0 84 84
+-------------------------------
+--- LOG INFO --- 11:43:38 PM Saturday, February 14, 2015
+  :0 0 72 72
+-------------------------------
+--- LOG INFO --- 11:43:38 PM Saturday, February 14, 2015
+  :0 0 71 71
+-------------------------------
+--- LOG INFO --- 11:43:38 PM Saturday, February 14, 2015
+  :0 0 18 18
+-------------------------------
+--- LOG INFO --- 11:43:38 PM Saturday, February 14, 2015
+  :0 0 14 14
+-------------------------------
+--- LOG INFO --- 11:43:38 PM Saturday, February 14, 2015
+  :0 0 10 10
+-------------------------------
+--- LOG INFO --- 11:50:59 PM Saturday, February 14, 2015
+  :The matching algorithm started.
+-------------------------------
+--- LOG INFO --- 11:51:00 PM Saturday, February 14, 2015
+  :1000 files have been read and tokenized. 
+-------------------------------
+--- LOG INFO --- 11:51:00 PM Saturday, February 14, 2015
+  :Finish reading the documents and making dictionary. The data import takes 0seconds. 
+-------------------------------
+--- LOG INFO --- 11:51:00 PM Saturday, February 14, 2015
+  :Bin Tree has been constructed. The num of leaf nodes is 1000
+-------------------------------
+--- LOG INFO --- 11:51:00 PM Saturday, February 14, 2015
+  :leaf 1000 is being processed. 
+-------------------------------
+--- LOG INFO --- 3:16:14 PM Tuesday, September 15, 2015
+  :The matching algorithm started.
+-------------------------------
+--- LOG INFO --- 3:16:19 PM Tuesday, September 15, 2015
+  :1000 files have been read and tokenized. 
+-------------------------------
+--- LOG INFO --- 3:16:19 PM Tuesday, September 15, 2015
+  :Finish reading the documents and making dictionary. The data import takes 4seconds. 
+-------------------------------
+--- LOG INFO --- 3:16:19 PM Tuesday, September 15, 2015
+  :Bin Tree has been constructed. The num of leaf nodes is 999
+-------------------------------
+--- LOG INFO --- 3:16:57 PM Tuesday, September 15, 2015
+  :The matching algorithm started.
+-------------------------------
+--- LOG INFO --- 3:16:57 PM Tuesday, September 15, 2015
+  :1000 files have been read and tokenized. 
+-------------------------------
+--- LOG INFO --- 3:16:57 PM Tuesday, September 15, 2015
+  :Finish reading the documents and making dictionary. The data import takes 0seconds. 
+-------------------------------
+--- LOG INFO --- 3:16:57 PM Tuesday, September 15, 2015
+  :Bin Tree has been constructed. The num of leaf nodes is 999
+-------------------------------

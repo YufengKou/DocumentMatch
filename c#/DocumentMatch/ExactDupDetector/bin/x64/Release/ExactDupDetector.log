@@ -1,0 +1,150 @@
+--- LOG INFO --- 2:34:22 PM Wednesday, August 13, 2014
+  :*** Start Running Exact Duplicate Detector *** 
+-------------------------------
+--- LOG INFO --- 2:34:22 PM Wednesday, August 13, 2014
+  :----------- Statistics ----------
+-------------------------------
+--- LOG INFO --- 2:34:22 PM Wednesday, August 13, 2014
+  :Total Files: 609, Total clusters with size greater than one:  3, NumOfSinglePoints:603
+-------------------------------
+--- LOG INFO --- 2:34:22 PM Wednesday, August 13, 2014
+  :**** End of running ****
+-------------------------------
+--- LOG INFO --- 2:34:59 PM Wednesday, August 13, 2014
+  :*** Start Running Exact Duplicate Detector *** 
+-------------------------------
+--- LOG INFO --- 2:35:00 PM Wednesday, August 13, 2014
+  :----------- Statistics ----------
+-------------------------------
+--- LOG INFO --- 2:35:00 PM Wednesday, August 13, 2014
+  :Total Files: 609, Total clusters with size greater than one:  3, NumOfSinglePoints:603
+-------------------------------
+--- LOG INFO --- 2:35:00 PM Wednesday, August 13, 2014
+  :**** End of running ****
+-------------------------------
+--- LOG INFO --- 2:53:26 PM Wednesday, August 13, 2014
+  :*** Start Running Exact Duplicate Detector *** 
+-------------------------------
+--- LOG INFO --- 2:53:26 PM Wednesday, August 13, 2014
+  :----------- Statistics ----------
+-------------------------------
+--- LOG INFO --- 2:53:26 PM Wednesday, August 13, 2014
+  :Total Files: 609, Total clusters with size greater than one:  3, NumOfSinglePoints:603
+-------------------------------
+--- LOG INFO --- 2:53:26 PM Wednesday, August 13, 2014
+  :**** End of running ****
+-------------------------------
+--- LOG INFO --- 3:43:15 PM Wednesday, August 13, 2014
+  :*** Start Running Exact Duplicate Detector *** 
+-------------------------------
+--- LOG INFO --- 3:43:15 PM Wednesday, August 13, 2014
+  :----------- Statistics ----------
+-------------------------------
+--- LOG INFO --- 3:43:15 PM Wednesday, August 13, 2014
+  :Total Files: 609, Total clusters with size greater than one:  3, NumOfSinglePoints:603
+-------------------------------
+--- LOG INFO --- 3:43:15 PM Wednesday, August 13, 2014
+  :**** End of running. It took 0.2130213 seconds. 
+-------------------------------
+--- LOG INFO --- 9:32:15 AM Thursday, August 14, 2014
+  :*** Start Running Exact Duplicate Detector *** 
+-------------------------------
+--- LOG INFO --- 9:32:15 AM Thursday, August 14, 2014
+  :Algorithm type: MD5
+-------------------------------
+--- LOG INFO --- 9:32:15 AM Thursday, August 14, 2014
+  :InputDir: C:\Temp\Acquisitions
+-------------------------------
+--- LOG INFO --- 9:32:15 AM Thursday, August 14, 2014
+  :OutputFile: ExactDup.txt
+-------------------------------
+--- LOG INFO --- 9:32:18 AM Thursday, August 14, 2014
+  :----------- Statistics ----------
+-------------------------------
+--- LOG INFO --- 9:32:18 AM Thursday, August 14, 2014
+  :Total Files: 609, Total clusters with size greater than one:  3, NumOfSinglePoints:603
+-------------------------------
+--- LOG INFO --- 9:32:18 AM Thursday, August 14, 2014
+  :**** End of running. It took 2.8432843 seconds. 
+-------------------------------
+--- LOG INFO --- 3:20:43 PM Tuesday, September 02, 2014
+  :*** Start Running Exact Duplicate Detector *** 
+-------------------------------
+--- LOG INFO --- 3:20:43 PM Tuesday, September 02, 2014
+  :Algorithm type: MD5
+-------------------------------
+--- LOG INFO --- 3:20:43 PM Tuesday, September 02, 2014
+  :InputDir: C:\Temp\Acquisitions
+-------------------------------
+--- LOG INFO --- 3:20:43 PM Tuesday, September 02, 2014
+  :OutputFile: ExactDup.txt
+-------------------------------
+--- LOG INFO --- 3:20:46 PM Tuesday, September 02, 2014
+  :----------- Statistics ----------
+-------------------------------
+--- LOG INFO --- 3:20:46 PM Tuesday, September 02, 2014
+  :Total Files: 609, Total clusters with size greater than one:  3, NumOfSinglePoints:603
+-------------------------------
+--- LOG INFO --- 3:20:46 PM Tuesday, September 02, 2014
+  :**** End of running. It took 2.5362536 seconds. 
+-------------------------------
+--- LOG INFO --- 3:23:13 PM Tuesday, September 02, 2014
+  :*** Start Running Exact Duplicate Detector *** 
+-------------------------------
+--- LOG INFO --- 3:23:13 PM Tuesday, September 02, 2014
+  :Algorithm type: MD5
+-------------------------------
+--- LOG INFO --- 3:23:13 PM Tuesday, September 02, 2014
+  :InputDir: C:\Temp\Acquisitions
+-------------------------------
+--- LOG INFO --- 3:23:13 PM Tuesday, September 02, 2014
+  :OutputFile: ExactDup.txt
+-------------------------------
+--- LOG INFO --- 3:23:13 PM Tuesday, September 02, 2014
+  :----------- Statistics ----------
+-------------------------------
+--- LOG INFO --- 3:23:13 PM Tuesday, September 02, 2014
+  :Total Files: 609, Total clusters with size greater than one:  3, NumOfSinglePoints:603
+-------------------------------
+--- LOG INFO --- 3:23:13 PM Tuesday, September 02, 2014
+  :**** End of running. It took 0.1840184 seconds. 
+-------------------------------
+--- LOG INFO --- 3:26:50 PM Tuesday, September 02, 2014
+  :*** Start Running Exact Duplicate Detector *** 
+-------------------------------
+--- LOG INFO --- 3:26:50 PM Tuesday, September 02, 2014
+  :Algorithm type: MD5
+-------------------------------
+--- LOG INFO --- 3:26:50 PM Tuesday, September 02, 2014
+  :InputDir: C:\Temp\Acquisitions
+-------------------------------
+--- LOG INFO --- 3:26:50 PM Tuesday, September 02, 2014
+  :OutputFile: ExactDup.txt
+-------------------------------
+--- LOG INFO --- 3:26:50 PM Tuesday, September 02, 2014
+  :100 files have been processed. SizeOfDictionary is 100. Current Memory Usage: 14053376
+-------------------------------
+--- LOG INFO --- 3:26:50 PM Tuesday, September 02, 2014
+  :200 files have been processed. SizeOfDictionary is 200. Current Memory Usage: 14655488
+-------------------------------
+--- LOG INFO --- 3:26:50 PM Tuesday, September 02, 2014
+  :300 files have been processed. SizeOfDictionary is 300. Current Memory Usage: 15454208
+-------------------------------
+--- LOG INFO --- 3:26:51 PM Tuesday, September 02, 2014
+  :400 files have been processed. SizeOfDictionary is 400. Current Memory Usage: 16322560
+-------------------------------
+--- LOG INFO --- 3:26:51 PM Tuesday, September 02, 2014
+  :500 files have been processed. SizeOfDictionary is 499. Current Memory Usage: 14249984
+-------------------------------
+--- LOG INFO --- 3:26:51 PM Tuesday, September 02, 2014
+  :600 files have been processed. SizeOfDictionary is 598. Current Memory Usage: 14983168
+-------------------------------
+--- LOG INFO --- 3:26:51 PM Tuesday, September 02, 2014
+  :----------- Statistics ----------
+-------------------------------
+--- LOG INFO --- 3:26:51 PM Tuesday, September 02, 2014
+  :Total Files: 609, Total clusters with size greater than one:  3, NumOfSinglePoints:603
+-------------------------------
+--- LOG INFO --- 3:26:51 PM Tuesday, September 02, 2014
+  :**** End of running. It took 0.2140214 seconds. 
+-------------------------------

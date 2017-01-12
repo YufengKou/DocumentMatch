@@ -1,0 +1,9 @@
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\StringMatchPrototype\bin\Release\DocMatch.exe
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\StringMatchPrototype\bin\Release\DocMatch.pdb
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\StringMatchPrototype\obj\Release\DocMatch.csprojResolveAssemblyReference.cache
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\StringMatchPrototype\obj\Release\StringMatchPrototype.DiffDisplay.resources
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\StringMatchPrototype\obj\Release\StringMatchPrototype.MainStrMatchForm.resources
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\StringMatchPrototype\obj\Release\StringMatchPrototype.Properties.Resources.resources
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\StringMatchPrototype\obj\Release\DocMatch.csproj.GenerateResource.Cache
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\StringMatchPrototype\obj\Release\DocMatch.exe
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\StringMatchPrototype\obj\Release\DocMatch.pdb

@@ -1,0 +1,4 @@
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\ExactDupDetector\bin\x64\Release\ExactDupDetector.exe
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\ExactDupDetector\bin\x64\Release\ExactDupDetector.pdb
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\ExactDupDetector\obj\x64\Release\ExactDupDetector.exe
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\ExactDupDetector\obj\x64\Release\ExactDupDetector.pdb

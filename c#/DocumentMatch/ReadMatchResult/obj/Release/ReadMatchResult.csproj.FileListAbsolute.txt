@@ -1,0 +1,5 @@
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\ReadMatchResult\bin\Release\ReadMatchResult.exe
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\ReadMatchResult\bin\Release\ReadMatchResult.pdb
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\ReadMatchResult\obj\Release\ReadMatchResult.csprojResolveAssemblyReference.cache
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\ReadMatchResult\obj\Release\ReadMatchResult.exe
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\ReadMatchResult\obj\Release\ReadMatchResult.pdb

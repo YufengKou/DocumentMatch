@@ -1,0 +1,4 @@
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\ReadMatchResult\bin\x64\Release\ReadMatchResult.exe
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\ReadMatchResult\bin\x64\Release\ReadMatchResult.pdb
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\ReadMatchResult\obj\x64\Release\ReadMatchResult.exe
+C:\Users\ykou\Documents\Yufeng\c#_code\DocumentMatch\ReadMatchResult\obj\x64\Release\ReadMatchResult.pdb
